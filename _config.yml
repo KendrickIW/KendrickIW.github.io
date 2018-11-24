@@ -20,7 +20,7 @@ twitter_username: KendrickIW
 github_username:  KendrickIW
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-slate
 
 minimal_mistakes_skin: "dirt" # "contrast", "default" "air", "aqua", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
