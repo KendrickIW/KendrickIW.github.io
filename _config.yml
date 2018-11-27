@@ -26,7 +26,7 @@ minimal_mistakes_skin: "dirt" # "contrast", "default" "air", "aqua", "dark", "di
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KendrickWilliams"
+title                    : "KW"
 title_separator          : "-"
 name                     : "Kendrick Williams"
 url                      : "https://kendrickwilliams.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -142,7 +142,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:  "https://twitter.com/KendrickIW"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
