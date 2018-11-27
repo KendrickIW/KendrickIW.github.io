@@ -11,3 +11,33 @@ $header-font-family : $serif;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.masthead__menu-item {
+    font-size: .80em;
+}
+
+.site-title {
+    letter-spacing: -1px;
+    font-weight: bolder;
+}
+
+.masthead {
+    border: none;
+}
+
+.archive__subtitle {
+    font-size: 1.5em;
+    border: none;
+}
+
+.archive__item-title a {
+    text-decoration: none;
+}
+
+.archive__item-title a:hover {
+    text-decoration: underline;
+}
+
+.page__footer {
+    background-color: transparent;
+}
